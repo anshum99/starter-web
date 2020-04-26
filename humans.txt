@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ANSHUMAN anshuman.kumar@thalesgroup.com anshum99@
 
 # THANKS
 
